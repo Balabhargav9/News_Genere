@@ -59,6 +59,12 @@ code {
   top: 100px;
   z-index: 1;
 }
+.nav-link:focus{
+  color: #a18eef;
+  
+  
+  
+}
 .load {
   height: 2vh;
   display: flex;
